@@ -1,0 +1,16 @@
+# Logfile created on 2020-04-23 02:58:50 -0400 by logger.rb/66358
+D, [2020-04-23T03:00:43.095636 #73728] DEBUG -- : App is started
+D, [2020-04-23T03:01:43.449705 #73753] DEBUG -- : App is started
+D, [2020-04-23T03:03:56.075950 #73796] DEBUG -- : App is started
+D, [2020-04-23T03:04:19.224530 #73812] DEBUG -- : App is started
+D, [2020-04-23T03:04:35.761705 #73813] DEBUG -- : App is started
+D, [2020-04-23T03:05:54.626534 #73847] DEBUG -- : App is started
+D, [2020-04-23T03:05:58.856023 #73848] DEBUG -- : App is started
+D, [2020-04-23T03:09:32.343199 #73894] DEBUG -- : App is started
+D, [2020-04-23T03:09:35.037443 #73895] DEBUG -- : App is started
+D, [2020-04-23T03:14:21.660835 #73951] DEBUG -- : App is started
+D, [2020-04-23T03:14:57.542314 #73966] DEBUG -- : App is started
+D, [2020-04-23T03:15:16.187513 #73967] DEBUG -- : App is started
+D, [2020-04-23T03:16:57.102180 #74022] DEBUG -- : App is started
+D, [2020-04-23T03:46:33.490009 #74108] DEBUG -- : App is started
+D, [2020-04-23T03:47:29.304557 #74125] DEBUG -- : App is started
